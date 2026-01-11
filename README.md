@@ -137,8 +137,8 @@ $adminPassword = '197350';  // 修改此处密码
 
 **示例标注：**
 ```
-基于 HeLei_awa 的钠云查询系统 (CX-NA) 开发
-原项目地址：https://github.com/HeLei_awa/CX-NA
+基于 HeLei_awa 的钠云查询系统开发
+原项目地址：https://github.com/HeLeiawa/na-chaxun
 许可证：MIT License
 ```
 
@@ -167,5 +167,6 @@ $adminPassword = '197350';  // 修改此处密码
 ---
 
 **钠云查询系统** - 让品牌查询与认证更简单高效
+
 
 *最后更新：2026年1月*
